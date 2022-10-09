@@ -106,7 +106,6 @@ void solve(){
     x.debug();
     x.insert(6);
     x.debug();
-    cout<<"size="<<x.size()<<endl;
     cout<<"Root="<<x.pop()<<endl;
     x.debug();
 
